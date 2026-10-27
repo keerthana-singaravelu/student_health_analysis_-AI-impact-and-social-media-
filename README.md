@@ -20,7 +20,7 @@
 
 <!-- Replace the link below with your actual GIF or image file name once uploaded to your repo -->
 <div align="center">
-  <img src="path_to_your_dashboard_animation.gif" alt="Power BI Dashboard Demo" width="800px">
+  <img src="https://github.com/keerthana-singaravelu/student_health_analysis_-AI-impact-and-social-media-/blob/main/DASHBOARD_1.png" alt="Power BI Dashboard Demo" width="800px">
 </div>
 
 ---
