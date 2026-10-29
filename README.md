@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Interactive Dashboard Preview
+##  Interactive Dashboard Preview
 > *Here is a quick walkthrough of the Power BI dashboard integrating our Python-generated visualizations and dynamic slicers.*
 
 <!-- Replace the link below with your actual GIF or image file name once uploaded to your repo -->
@@ -25,12 +25,12 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project investigates the dual-edged nature of digital technology in modern student life. By analyzing a comprehensive dataset of **16,000 student records**, this repository provides deep statistical insights and data-driven documentation on how daily screen time, AI tool adoption, and lifestyle habits shape student health outcomes.
 
 ---
 
-## 📊 Key Analytical Findings & Visualizations
+##  Key Analytical Findings & Visualizations
 
 1. **Physical Activity vs. Physical Health (Scatter Plot):**
    * Proves that increasing physical activity from 0 to 5 hours elevates minimum physical health baselines significantly across all academic tiers.
@@ -47,7 +47,7 @@ This project investigates the dual-edged nature of digital technology in modern 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 * **Programming Language:** Python[cite: 3]
 * **Data Manipulation & Analysis:** Pandas, NumPy[cite: 3]
 * **Data Visualization:** Seaborn, Matplotlib[cite: 3]
